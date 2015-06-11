@@ -1,0 +1,13 @@
+.btn {
+
+}
+
+.btn-primary {
+  background-color: $red;
+  border-color: $red;
+  
+  &:hover {
+    background-color: green;
+    border-color: green;
+  }
+}
